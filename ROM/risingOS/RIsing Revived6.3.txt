@@ -1,0 +1,9 @@
+# Changelog 19/02/2025: 
+- Sync Latest Source 
+- March security patch
+- Update tetheroffload to version 1.1
+- Implement torch light control
+- Fix msm_drm and msm_kgsl_3d0 IRQs values
+- Upstream kernel to v4.14.356-openela
+- Added 5.4 bpf backport
+- Etc
