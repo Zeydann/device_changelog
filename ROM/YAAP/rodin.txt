@@ -36,6 +36,5 @@ Date - 05/11/2025
 - rodin: parts: Introduce GameBar v4.0
 - rodin: parts: Introduce Refresh Rate QS tile
 - rodin: overlay: Drop COLOR_MODE_AUTOMATIC
-- add support local update ( only work on this build, previous build dirty from recovery)
 - fastcharge 67w ( don't use fckng phone while charging )
 - add ViperFX
