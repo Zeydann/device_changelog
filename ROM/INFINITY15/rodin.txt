@@ -1,0 +1,15 @@
+Device: Poco x7 PRO
+Device code name : rodin
+Device maintainer: Zeyy
+
+Date - 14/11/2025
+===============
+- Fixup YouTube and YT Music crash
+- Fixup Estimated time remaining on battery charge (Lock Screen)
+- Fixup USB tethering
+- Fixup Flickering in qs panel
+- Parts: Introduce GameBar v4.0
+- Parts: Introduce Refresh Rate QS tile
+- Fastcharge 67w ( don't use fckng phone while charging )
+- Add ViperFX
+- Shipped miuicamera (1080p60/4k60 dies sadly)
